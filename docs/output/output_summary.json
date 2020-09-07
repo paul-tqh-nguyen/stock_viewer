@@ -1,0 +1,722 @@
+{
+    "AAPL": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/AAPL_2020-08-31_plot.html",
+                "opening_price": 127.64,
+                "closing_price": 129.43,
+                "min_price": 126.47,
+                "max_price": 130.89
+            },
+            "2020-09-01": {
+                "html_file": "output/AAPL_2020-09-01_plot.html",
+                "opening_price": 132.8,
+                "closing_price": 134.46,
+                "min_price": 130.72,
+                "max_price": 134.675
+            },
+            "2020-09-02": {
+                "html_file": "output/AAPL_2020-09-02_plot.html",
+                "opening_price": 137.54,
+                "closing_price": 130.66,
+                "min_price": 127.205,
+                "max_price": 137.54
+            },
+            "2020-09-03": {
+                "html_file": "output/AAPL_2020-09-03_plot.html",
+                "opening_price": 126.96,
+                "closing_price": 120.93,
+                "min_price": 120.535,
+                "max_price": 128.12
+            },
+            "2020-09-04": {
+                "html_file": "output/AAPL_2020-09-04_plot.html",
+                "opening_price": 120.07,
+                "closing_price": 121.11,
+                "min_price": 111.26,
+                "max_price": 122.43
+            }
+        },
+        "combined_date_html_file": "output/AAPL_combined_days_plot.html"
+    },
+    "AMZN": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/AMZN_2020-08-31_plot.html",
+                "opening_price": 3408.315,
+                "closing_price": 3452.61,
+                "min_price": 3408.315,
+                "max_price": 3492.05
+            },
+            "2020-09-01": {
+                "html_file": "output/AMZN_2020-09-01_plot.html",
+                "opening_price": 3491.0,
+                "closing_price": 3499.38,
+                "min_price": 3476.2,
+                "max_price": 3506.76
+            },
+            "2020-09-02": {
+                "html_file": "output/AMZN_2020-09-02_plot.html",
+                "opening_price": 3548.205,
+                "closing_price": 3529.35,
+                "min_price": 3490.85,
+                "max_price": 3548.205
+            },
+            "2020-09-03": {
+                "html_file": "output/AMZN_2020-09-03_plot.html",
+                "opening_price": 3487.06,
+                "closing_price": 3368.93,
+                "min_price": 3305.065,
+                "max_price": 3487.06
+            },
+            "2020-09-04": {
+                "html_file": "output/AMZN_2020-09-04_plot.html",
+                "opening_price": 3314.335,
+                "closing_price": 3293.0,
+                "min_price": 3127.32,
+                "max_price": 3373.2
+            }
+        },
+        "combined_date_html_file": "output/AMZN_combined_days_plot.html"
+    },
+    "CMG": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/CMG_2020-08-31_plot.html",
+                "opening_price": 1305.63,
+                "closing_price": 1311.25,
+                "min_price": 1305.63,
+                "max_price": 1325.0
+            },
+            "2020-09-01": {
+                "html_file": "output/CMG_2020-09-01_plot.html",
+                "opening_price": 1311.25,
+                "closing_price": 1371.63,
+                "min_price": 1311.25,
+                "max_price": 1371.63
+            },
+            "2020-09-02": {
+                "html_file": "output/CMG_2020-09-02_plot.html",
+                "opening_price": 1371.63,
+                "closing_price": 1373.01,
+                "min_price": 1357.97,
+                "max_price": 1381.49
+            },
+            "2020-09-03": {
+                "html_file": "output/CMG_2020-09-03_plot.html",
+                "opening_price": 1357.65,
+                "closing_price": 1327.77,
+                "min_price": 1312.39,
+                "max_price": 1371.47
+            },
+            "2020-09-04": {
+                "html_file": "output/CMG_2020-09-04_plot.html",
+                "opening_price": 1333.43,
+                "closing_price": 1313.6,
+                "min_price": 1259.7,
+                "max_price": 1340.205
+            }
+        },
+        "combined_date_html_file": "output/CMG_combined_days_plot.html"
+    },
+    "COF": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/COF_2020-08-31_plot.html",
+                "opening_price": 70.05,
+                "closing_price": 69.015,
+                "min_price": 69.015,
+                "max_price": 70.53
+            },
+            "2020-09-01": {
+                "html_file": "output/COF_2020-09-01_plot.html",
+                "opening_price": 68.255,
+                "closing_price": 68.56,
+                "min_price": 68.03,
+                "max_price": 69.375
+            },
+            "2020-09-02": {
+                "html_file": "output/COF_2020-09-02_plot.html",
+                "opening_price": 68.195,
+                "closing_price": 69.525,
+                "min_price": 68.195,
+                "max_price": 69.525
+            },
+            "2020-09-03": {
+                "html_file": "output/COF_2020-09-03_plot.html",
+                "opening_price": 70.12,
+                "closing_price": 69.94,
+                "min_price": 69.235,
+                "max_price": 71.695
+            },
+            "2020-09-04": {
+                "html_file": "output/COF_2020-09-04_plot.html",
+                "opening_price": 72.07,
+                "closing_price": 74.0,
+                "min_price": 72.07,
+                "max_price": 74.415
+            }
+        },
+        "combined_date_html_file": "output/COF_combined_days_plot.html"
+    },
+    "CVS": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/CVS_2020-08-31_plot.html",
+                "opening_price": 62.59,
+                "closing_price": 62.18,
+                "min_price": 62.18,
+                "max_price": 62.89
+            },
+            "2020-09-01": {
+                "html_file": "output/CVS_2020-09-01_plot.html",
+                "opening_price": 61.96,
+                "closing_price": 60.275,
+                "min_price": 60.055,
+                "max_price": 61.96
+            },
+            "2020-09-02": {
+                "html_file": "output/CVS_2020-09-02_plot.html",
+                "opening_price": 60.24,
+                "closing_price": 60.89,
+                "min_price": 60.24,
+                "max_price": 61.23
+            },
+            "2020-09-03": {
+                "html_file": "output/CVS_2020-09-03_plot.html",
+                "opening_price": 60.89,
+                "closing_price": 60.455,
+                "min_price": 60.12,
+                "max_price": 61.93
+            },
+            "2020-09-04": {
+                "html_file": "output/CVS_2020-09-04_plot.html",
+                "opening_price": 60.52,
+                "closing_price": 60.245,
+                "min_price": 59.345,
+                "max_price": 60.54
+            }
+        },
+        "combined_date_html_file": "output/CVS_combined_days_plot.html"
+    },
+    "FB": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/FB_2020-08-31_plot.html",
+                "opening_price": 294.35,
+                "closing_price": 293.22,
+                "min_price": 291.68,
+                "max_price": 295.66
+            },
+            "2020-09-01": {
+                "html_file": "output/FB_2020-09-01_plot.html",
+                "opening_price": 295.155,
+                "closing_price": 295.6,
+                "min_price": 292.845,
+                "max_price": 300.16
+            },
+            "2020-09-02": {
+                "html_file": "output/FB_2020-09-02_plot.html",
+                "opening_price": 298.92,
+                "closing_price": 301.5,
+                "min_price": 293.96,
+                "max_price": 301.83
+            },
+            "2020-09-03": {
+                "html_file": "output/FB_2020-09-03_plot.html",
+                "opening_price": 295.64,
+                "closing_price": 291.49,
+                "min_price": 284.92,
+                "max_price": 295.87
+            },
+            "2020-09-04": {
+                "html_file": "output/FB_2020-09-04_plot.html",
+                "opening_price": 286.605,
+                "closing_price": 282.89,
+                "min_price": 272.27,
+                "max_price": 287.95
+            }
+        },
+        "combined_date_html_file": "output/FB_combined_days_plot.html"
+    },
+    "GOOGL": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/GOOGL_2020-08-31_plot.html",
+                "opening_price": 1641.01,
+                "closing_price": 1631.985,
+                "min_price": 1626.05,
+                "max_price": 1642.02
+            },
+            "2020-09-01": {
+                "html_file": "output/GOOGL_2020-09-01_plot.html",
+                "opening_price": 1630.095,
+                "closing_price": 1655.62,
+                "min_price": 1630.0,
+                "max_price": 1659.21
+            },
+            "2020-09-02": {
+                "html_file": "output/GOOGL_2020-09-02_plot.html",
+                "opening_price": 1667.5,
+                "closing_price": 1695.7,
+                "min_price": 1660.645,
+                "max_price": 1697.12
+            },
+            "2020-09-03": {
+                "html_file": "output/GOOGL_2020-09-03_plot.html",
+                "opening_price": 1698.995,
+                "closing_price": 1630.02,
+                "min_price": 1610.81,
+                "max_price": 1698.995
+            },
+            "2020-09-04": {
+                "html_file": "output/GOOGL_2020-09-04_plot.html",
+                "opening_price": 1608.93,
+                "closing_price": 1580.38,
+                "min_price": 1541.305,
+                "max_price": 1629.11
+            }
+        },
+        "combined_date_html_file": "output/GOOGL_combined_days_plot.html"
+    },
+    "NFLX": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/NFLX_2020-08-31_plot.html",
+                "opening_price": 522.92,
+                "closing_price": 529.645,
+                "min_price": 518.03,
+                "max_price": 531.585
+            },
+            "2020-09-01": {
+                "html_file": "output/NFLX_2020-09-01_plot.html",
+                "opening_price": 532.545,
+                "closing_price": 556.92,
+                "min_price": 532.545,
+                "max_price": 557.13
+            },
+            "2020-09-02": {
+                "html_file": "output/NFLX_2020-09-02_plot.html",
+                "opening_price": 553.82,
+                "closing_price": 552.1,
+                "min_price": 539.67,
+                "max_price": 553.82
+            },
+            "2020-09-03": {
+                "html_file": "output/NFLX_2020-09-03_plot.html",
+                "opening_price": 544.23,
+                "closing_price": 525.75,
+                "min_price": 522.38,
+                "max_price": 551.74
+            },
+            "2020-09-04": {
+                "html_file": "output/NFLX_2020-09-04_plot.html",
+                "opening_price": 519.19,
+                "closing_price": 516.5,
+                "min_price": 486.73,
+                "max_price": 527.01
+            }
+        },
+        "combined_date_html_file": "output/NFLX_combined_days_plot.html"
+    },
+    "NKE": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/NKE_2020-08-31_plot.html",
+                "opening_price": 112.3,
+                "closing_price": 112.0,
+                "min_price": 111.17,
+                "max_price": 112.425
+            },
+            "2020-09-01": {
+                "html_file": "output/NKE_2020-09-01_plot.html",
+                "opening_price": 111.915,
+                "closing_price": 114.87,
+                "min_price": 111.915,
+                "max_price": 114.87
+            },
+            "2020-09-02": {
+                "html_file": "output/NKE_2020-09-02_plot.html",
+                "opening_price": 115.08,
+                "closing_price": 116.15,
+                "min_price": 114.605,
+                "max_price": 116.21
+            },
+            "2020-09-03": {
+                "html_file": "output/NKE_2020-09-03_plot.html",
+                "opening_price": 116.79,
+                "closing_price": 112.85,
+                "min_price": 112.19,
+                "max_price": 116.79
+            },
+            "2020-09-04": {
+                "html_file": "output/NKE_2020-09-04_plot.html",
+                "opening_price": 113.2,
+                "closing_price": 112.42,
+                "min_price": 110.71,
+                "max_price": 113.7
+            }
+        },
+        "combined_date_html_file": "output/NKE_combined_days_plot.html"
+    },
+    "NOC": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/NOC_2020-08-31_plot.html",
+                "opening_price": 343.685,
+                "closing_price": 342.56,
+                "min_price": 341.68,
+                "max_price": 344.285
+            },
+            "2020-09-01": {
+                "html_file": "output/NOC_2020-09-01_plot.html",
+                "opening_price": 342.56,
+                "closing_price": 340.38,
+                "min_price": 337.645,
+                "max_price": 342.83
+            },
+            "2020-09-02": {
+                "html_file": "output/NOC_2020-09-02_plot.html",
+                "opening_price": 339.63,
+                "closing_price": 346.555,
+                "min_price": 338.59,
+                "max_price": 347.41
+            },
+            "2020-09-03": {
+                "html_file": "output/NOC_2020-09-03_plot.html",
+                "opening_price": 349.6,
+                "closing_price": 342.46,
+                "min_price": 340.28,
+                "max_price": 351.65
+            },
+            "2020-09-04": {
+                "html_file": "output/NOC_2020-09-04_plot.html",
+                "opening_price": 345.37,
+                "closing_price": 339.04,
+                "min_price": 337.81,
+                "max_price": 346.33
+            }
+        },
+        "combined_date_html_file": "output/NOC_combined_days_plot.html"
+    },
+    "PG": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/PG_2020-08-31_plot.html",
+                "opening_price": 138.33,
+                "closing_price": 138.29,
+                "min_price": 137.81,
+                "max_price": 138.655
+            },
+            "2020-09-01": {
+                "html_file": "output/PG_2020-09-01_plot.html",
+                "opening_price": 137.76,
+                "closing_price": 138.16,
+                "min_price": 137.12,
+                "max_price": 138.16
+            },
+            "2020-09-02": {
+                "html_file": "output/PG_2020-09-02_plot.html",
+                "opening_price": 138.06,
+                "closing_price": 140.24,
+                "min_price": 138.06,
+                "max_price": 140.41
+            },
+            "2020-09-03": {
+                "html_file": "output/PG_2020-09-03_plot.html",
+                "opening_price": 140.89,
+                "closing_price": 138.26,
+                "min_price": 137.16,
+                "max_price": 141.565
+            },
+            "2020-09-04": {
+                "html_file": "output/PG_2020-09-04_plot.html",
+                "opening_price": 138.26,
+                "closing_price": 138.02,
+                "min_price": 136.31,
+                "max_price": 138.99
+            }
+        },
+        "combined_date_html_file": "output/PG_combined_days_plot.html"
+    },
+    "SBUX": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/SBUX_2020-08-31_plot.html",
+                "opening_price": 84.86,
+                "closing_price": 84.645,
+                "min_price": 84.055,
+                "max_price": 85.055
+            },
+            "2020-09-01": {
+                "html_file": "output/SBUX_2020-09-01_plot.html",
+                "opening_price": 84.74,
+                "closing_price": 86.075,
+                "min_price": 84.38,
+                "max_price": 86.075
+            },
+            "2020-09-02": {
+                "html_file": "output/SBUX_2020-09-02_plot.html",
+                "opening_price": 86.51,
+                "closing_price": 87.97,
+                "min_price": 86.51,
+                "max_price": 88.035
+            },
+            "2020-09-03": {
+                "html_file": "output/SBUX_2020-09-03_plot.html",
+                "opening_price": 88.77,
+                "closing_price": 86.53,
+                "min_price": 85.72,
+                "max_price": 88.88
+            },
+            "2020-09-04": {
+                "html_file": "output/SBUX_2020-09-04_plot.html",
+                "opening_price": 86.96,
+                "closing_price": 86.315,
+                "min_price": 85.775,
+                "max_price": 87.555
+            }
+        },
+        "combined_date_html_file": "output/SBUX_combined_days_plot.html"
+    },
+    "SPOT": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/SPOT_2020-08-31_plot.html",
+                "opening_price": 280.35,
+                "closing_price": 282.18,
+                "min_price": 279.19,
+                "max_price": 284.67
+            },
+            "2020-09-01": {
+                "html_file": "output/SPOT_2020-09-01_plot.html",
+                "opening_price": 282.18,
+                "closing_price": 291.695,
+                "min_price": 282.18,
+                "max_price": 292.79
+            },
+            "2020-09-02": {
+                "html_file": "output/SPOT_2020-09-02_plot.html",
+                "opening_price": 291.695,
+                "closing_price": 273.32,
+                "min_price": 267.95,
+                "max_price": 291.695
+            },
+            "2020-09-03": {
+                "html_file": "output/SPOT_2020-09-03_plot.html",
+                "opening_price": 267.725,
+                "closing_price": 261.53,
+                "min_price": 259.125,
+                "max_price": 273.605
+            },
+            "2020-09-04": {
+                "html_file": "output/SPOT_2020-09-04_plot.html",
+                "opening_price": 259.13,
+                "closing_price": 248.2,
+                "min_price": 239.285,
+                "max_price": 259.38
+            }
+        },
+        "combined_date_html_file": "output/SPOT_combined_days_plot.html"
+    },
+    "TGT": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/TGT_2020-08-31_plot.html",
+                "opening_price": 151.15,
+                "closing_price": 151.3,
+                "min_price": 150.38,
+                "max_price": 151.79
+            },
+            "2020-09-01": {
+                "html_file": "output/TGT_2020-09-01_plot.html",
+                "opening_price": 150.91,
+                "closing_price": 150.49,
+                "min_price": 150.14,
+                "max_price": 151.68
+            },
+            "2020-09-02": {
+                "html_file": "output/TGT_2020-09-02_plot.html",
+                "opening_price": 150.49,
+                "closing_price": 149.48,
+                "min_price": 148.56,
+                "max_price": 150.49
+            },
+            "2020-09-03": {
+                "html_file": "output/TGT_2020-09-03_plot.html",
+                "opening_price": 149.48,
+                "closing_price": 146.15,
+                "min_price": 145.505,
+                "max_price": 149.75
+            },
+            "2020-09-04": {
+                "html_file": "output/TGT_2020-09-04_plot.html",
+                "opening_price": 146.86,
+                "closing_price": 147.14,
+                "min_price": 144.05,
+                "max_price": 148.535
+            }
+        },
+        "combined_date_html_file": "output/TGT_combined_days_plot.html"
+    },
+    "TSLA": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/TSLA_2020-08-31_plot.html",
+                "opening_price": 444.69,
+                "closing_price": 498.71,
+                "min_price": 442.07,
+                "max_price": 499.53
+            },
+            "2020-09-01": {
+                "html_file": "output/TSLA_2020-09-01_plot.html",
+                "opening_price": 502.205,
+                "closing_price": 475.135,
+                "min_price": 472.05,
+                "max_price": 502.205
+            },
+            "2020-09-02": {
+                "html_file": "output/TSLA_2020-09-02_plot.html",
+                "opening_price": 478.85,
+                "closing_price": 440.17,
+                "min_price": 408.6,
+                "max_price": 478.85
+            },
+            "2020-09-03": {
+                "html_file": "output/TSLA_2020-09-03_plot.html",
+                "opening_price": 407.485,
+                "closing_price": 407.165,
+                "min_price": 402.3,
+                "max_price": 429.73
+            },
+            "2020-09-04": {
+                "html_file": "output/TSLA_2020-09-04_plot.html",
+                "opening_price": 402.86,
+                "closing_price": 418.5,
+                "min_price": 372.86,
+                "max_price": 425.165
+            }
+        },
+        "combined_date_html_file": "output/TSLA_combined_days_plot.html"
+    },
+    "ULTA": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/ULTA_2020-08-31_plot.html",
+                "opening_price": 234.4,
+                "closing_price": 232.27,
+                "min_price": 231.005,
+                "max_price": 236.17
+            },
+            "2020-09-01": {
+                "html_file": "output/ULTA_2020-09-01_plot.html",
+                "opening_price": 230.98,
+                "closing_price": 232.82,
+                "min_price": 228.015,
+                "max_price": 232.82
+            },
+            "2020-09-02": {
+                "html_file": "output/ULTA_2020-09-02_plot.html",
+                "opening_price": 233.6,
+                "closing_price": 237.225,
+                "min_price": 230.895,
+                "max_price": 237.605
+            },
+            "2020-09-03": {
+                "html_file": "output/ULTA_2020-09-03_plot.html",
+                "opening_price": 237.96,
+                "closing_price": 238.12,
+                "min_price": 235.1,
+                "max_price": 241.99
+            },
+            "2020-09-04": {
+                "html_file": "output/ULTA_2020-09-04_plot.html",
+                "opening_price": 239.54,
+                "closing_price": 240.605,
+                "min_price": 236.915,
+                "max_price": 243.41
+            }
+        },
+        "combined_date_html_file": "output/ULTA_combined_days_plot.html"
+    },
+    "UNH": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/UNH_2020-08-31_plot.html",
+                "opening_price": 314.98,
+                "closing_price": 312.69,
+                "min_price": 312.69,
+                "max_price": 319.39
+            },
+            "2020-09-01": {
+                "html_file": "output/UNH_2020-09-01_plot.html",
+                "opening_price": 311.27,
+                "closing_price": 312.85,
+                "min_price": 310.31,
+                "max_price": 314.59
+            },
+            "2020-09-02": {
+                "html_file": "output/UNH_2020-09-02_plot.html",
+                "opening_price": 312.85,
+                "closing_price": 319.85,
+                "min_price": 312.825,
+                "max_price": 319.85
+            },
+            "2020-09-03": {
+                "html_file": "output/UNH_2020-09-03_plot.html",
+                "opening_price": 321.94,
+                "closing_price": 316.69,
+                "min_price": 313.99,
+                "max_price": 322.86
+            },
+            "2020-09-04": {
+                "html_file": "output/UNH_2020-09-04_plot.html",
+                "opening_price": 317.055,
+                "closing_price": 311.88,
+                "min_price": 307.06,
+                "max_price": 317.055
+            }
+        },
+        "combined_date_html_file": "output/UNH_combined_days_plot.html"
+    },
+    "XOM": {
+        "date_data": {
+            "2020-08-31": {
+                "html_file": "output/XOM_2020-08-31_plot.html",
+                "opening_price": 40.66,
+                "closing_price": 40.005,
+                "min_price": 39.95,
+                "max_price": 40.66
+            },
+            "2020-09-01": {
+                "html_file": "output/XOM_2020-09-01_plot.html",
+                "opening_price": 39.59,
+                "closing_price": 39.43,
+                "min_price": 39.255,
+                "max_price": 39.675
+            },
+            "2020-09-02": {
+                "html_file": "output/XOM_2020-09-02_plot.html",
+                "opening_price": 39.21,
+                "closing_price": 39.095,
+                "min_price": 39.01,
+                "max_price": 39.66
+            },
+            "2020-09-03": {
+                "html_file": "output/XOM_2020-09-03_plot.html",
+                "opening_price": 39.24,
+                "closing_price": 39.125,
+                "min_price": 38.945,
+                "max_price": 39.97
+            },
+            "2020-09-04": {
+                "html_file": "output/XOM_2020-09-04_plot.html",
+                "opening_price": 39.49,
+                "closing_price": 39.075,
+                "min_price": 38.68,
+                "max_price": 39.69
+            }
+        },
+        "combined_date_html_file": "output/XOM_combined_days_plot.html"
+    }
+}
