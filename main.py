@@ -126,6 +126,7 @@ def create_combined_days_chart(df: pd.DataFrame, ticker_symbol: str, output_file
         plot_height=250,
         plot_width=400,
         x_range=(df.time_of_day.min(), df.time_of_day.max()),
+        tools='',
     )
     p.toolbar.logo = None
     p.toolbar_location = None
