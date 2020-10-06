@@ -13,6 +13,7 @@ body {
 /******************/
 
 #loading-screen {
+    background: #636363;
 }
 
 .loading-block {
@@ -104,6 +105,11 @@ table.ticker-symbol-content td {
     font-size: 2em;
     margin: 0px;
     padding: 10px;
+}
+
+.ticker-symbol-label:hover {
+    transition: all 0.5s;
+    background: #777;
 }
 
 .ticker-symbol-label:before {

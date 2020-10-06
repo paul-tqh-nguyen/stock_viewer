@@ -96,7 +96,7 @@
     /******************/
 
     const animationDuration = 1;
-    const approximateBlockSize = 50;
+    const approximateBlockSize = 60;
     const width = window.innerWidth;
     const height = window.innerHeight;
     const horizontalBlockCount = Math.floor(width/approximateBlockSize);
